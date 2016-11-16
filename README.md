@@ -1,2 +1,2 @@
 # RateTable
-Contains velocity profiles for rate table. Most of them compatible with Arduino Due.
+Contains velocity profiles for rate table. Most of them compatible are with Arduino Due.
